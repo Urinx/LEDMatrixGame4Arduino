@@ -24,4 +24,4 @@ Arduino powered Pac Man Game with one 74HC595 8 bit Shift Registers to control 1
 
 ## See It in Action
 
-[![]()]()
+[![](video.png)](https://v.qq.com/x/page/j0834x9og2g.html)
